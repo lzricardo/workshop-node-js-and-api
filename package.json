@@ -1,0 +1,30 @@
+{
+  "name": "siecomp",
+  "version": "1.0.0",
+  "description": "This workshop of Node.js and API Rest for students from UEFS.",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzricardo/workshop-node-js-and-api.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "UEFS",
+    "workshop",
+    "rest"
+  ],
+  "author": "Luiz Ricardo Inês de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzricardo/workshop-node-js-and-api/issues"
+  },
+  "homepage": "https://github.com/lzricardo/workshop-node-js-and-api#readme"
+}
